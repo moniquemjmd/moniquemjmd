@@ -1,16 +1,47 @@
-## Hi there 👋
+# Hi, I'm Monique 👋
 
-<!--
-**moniquemjmd/moniquemjmd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Senior Web Developer with 7+ years of experience building web applications using Laravel and modern frontend technologies.
 
-Here are some ideas to get you started:
+I enjoy building maintainable software, improving application architecture, and creating clean user interfaces.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Current Tech Stack
+
+### Backend
+- PHP
+- Laravel
+- REST APIs
+- MariaDB / MySQL
+
+### Frontend
+- SvelteKit
+- TypeScript
+- Tailwind CSS
+- HTML / CSS / JavaScript
+
+### Cloud
+- AWS EC2
+- CloudFront
+- Route 53
+- RDS
+- S3
+
+## Interests
+
+- Application Architecture
+- UI Engineering
+- Developer Experience
+- System Design
+- Web Performance
+
+## Currently Learning
+
+- Advanced TypeScript
+- React
+- Vue
+- Clean Architecture
+- Mobile Development
+
+## Contact
+
+LinkedIn: https://www.linkedin.com/in/jessawin-dejarlo
+Portfolio: TBA
